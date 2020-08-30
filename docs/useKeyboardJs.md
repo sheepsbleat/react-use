@@ -29,7 +29,7 @@ Note: Because of dependency on `keyboardjs` you have to import this hook directl
 Install [`keyboardjs`](https://github.com/RobertWHurst/KeyboardJS) peer dependency:
 
 ```bash
-npm add keyboardjs
+npm i keyboardjs
 # or
 yarn add keyboardjs
 ```
